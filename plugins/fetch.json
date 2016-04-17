@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-vibration": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-vibration@2.0.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

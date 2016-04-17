@@ -1,0 +1,3 @@
+# README #
+
+This project is a tutorial I followed in **Udemmy.com**, Instructed by **Pablo Farías Navarro**. It's great how you can develop a game with different devs tools. Also the project has plugins from Cordova to get work with **Intel XDK**. I made an **Android** apk to test it and it worked very well. I don't know yet how I can build a test application on **Iphone** (I have to research that xD).
